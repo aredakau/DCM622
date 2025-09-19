@@ -21,8 +21,8 @@
 <br>
 
 
-<p dir="rtl" align="right">هذا المقرر سيغطي الموضوعات التالية:</p>
+<p dir="rtl" align="right">موضوعات المقرر:</p>
 
 <ul dir="rtl">
-<li>مدخل إلى السياسات والتشريعات البيئية</li>
+  <li><a href="slides/lecture_1.html">مدخل إلى السياسات والتشريعات البيئية</a></li>
 </ul>
