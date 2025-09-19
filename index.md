@@ -3,7 +3,7 @@
 <h1 dir="rtl" align="right">المواصفات والقوانين البيئية</h1>
 
 --------
-
+<br>
 <div dir="rtl" align="right" style="font-size:1.2em; font-weight:bold;">
 <p dir="rtl" align="right" style="font-size:1.6em; font-weight:bold; margin:0;">
 د. أحمد بن عبد الله رضا
@@ -15,6 +15,9 @@
 </div>
 
 
+<br>
+<br>
+<br>
 
 
 <p dir="rtl" align="right">هذا المقرر سيغطي الموضوعات التالية:</p>
