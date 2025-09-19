@@ -24,5 +24,8 @@
 <p dir="rtl" align="right">موضوعات المقرر:</p>
 
 <ul dir="rtl">
+  <li><a href="slides/lecture_0.html">معلومات المقرر</a></li>
+</ul>
+<ul dir="rtl">
   <li><a href="slides/lecture_1.html">مدخل إلى السياسات والتشريعات البيئية</a></li>
 </ul>
