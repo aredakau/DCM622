@@ -2,8 +2,10 @@
 
 <h1 dir="rtl" align="right">المواصفات والقوانين البيئية</h1>
 
-<div dir="rtl" align="right" style="font-size:1.5em; font-weight:bold;">
-<p dir="rtl" align="right" style="font-size:2em; font-weight:bold; margin:0;">
+--------
+
+<div dir="rtl" align="right" style="font-size:1.2em; font-weight:bold;">
+<p dir="rtl" align="right" style="font-size:1.6em; font-weight:bold; margin:0;">
 د. أحمد بن عبد الله رضا
 </p>
 قسم الثروة المعدنية والصخور<br>
