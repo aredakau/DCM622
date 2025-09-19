@@ -1,0 +1,13 @@
+/* slidy slide content */
+div.slide {
+  direction: rtl;
+  text-align: right;
+  font-family: "Amiri", "Cairo", "Tajawal", "Noto Naskh Arabic", sans-serif;
+  line-height: 1.8;
+}
+
+/* keep code blocks LTR */
+pre, code {
+  direction: ltr;
+  text-align: left;
+}
