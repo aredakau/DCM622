@@ -4,10 +4,11 @@
 
 --------
 <br>
-<div dir="rtl" align="right" style="font-size:1.2em; font-weight:bold;">
+
 <p dir="rtl" align="right" style="font-size:1.6em; font-weight:bold; margin:0;">
 د. أحمد بن عبد الله رضا
 </p>
+<div dir="rtl" align="right" style="font-size:1.2em">
 قسم الثروة المعدنية والصخور<br>
 كلية علوم الأرض<br>
 جامعة الملك عبدالعزيز<br>
