@@ -1,17 +1,17 @@
-<div dir="rtl" lang="ar" align="right">
+<img src="images/KAU_logo.png" alt="KAU_LOGO" width="80" height="102" align="right">
 
-<img src="images/KAU_logo.png" alt="KAU_LOGO" width="80" height="102" style="float:right; margin-left:12px;">
+<h1 dir="rtl" align="right">المواصفات والقوانين البيئية</h1>
+<h2 dir="rtl" align="right">د. أحمد بن عبد الله رضا</h2>
 
-
-# المواصفات والقوانين البيئية 
-
-د. أحمد بن عبد الله رضا  
+<p dir="rtl" align="right">
 قسم الثروة المعدنية والصخور  
-كلية علوم الأرض    
-جامعة الملك عبدالعزيز    
-جدة، المملكة العربية السعودية  
+كلية علوم الأرض  
+جامعة الملك عبدالعزيز  
+جدة، المملكة العربية السعودية
+</p>
 
-هذا المقرر سيغطي الموضوعات التالية:  
+<p dir="rtl" align="right">هذا المقرر سيغطي الموضوعات التالية:</p>
 
-- مدخل إلى السياسات والتشريعات البيئية
-</div>
+<ul dir="rtl">
+<li>مدخل إلى السياسات والتشريعات البيئية</li>
+</ul>
