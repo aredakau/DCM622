@@ -25,7 +25,5 @@
 
 <ul dir="rtl">
   <li><a href="slides/lectrure_0.html">معلومات المقرر</a></li>
-</ul>
-<ul dir="rtl">
   <li><a href="slides/lectrure_1.html">مدخل إلى السياسات والتشريعات البيئية</a></li>
 </ul>
