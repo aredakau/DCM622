@@ -27,4 +27,6 @@
   <li><a href="slides/lectrure_0.html">معلومات المقرر</a></li>
   <li><a href="slides/lectrure_1.html">مدخل إلى السياسات والتشريعات البيئية</a></li>
   <li><a href="slides/lecture_2.html">السياسات والقوانين البيئية</a></li>
+  <li><a href="slides/lecture_3.html">الاتفاقات البيئية العالمية</a></li>
+  
 </ul>
