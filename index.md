@@ -29,6 +29,7 @@
   <li><a href="slides/lecture_2.html">السياسات والقوانين البيئية</a></li>
   <li><a href="slides/lecture_3.html">الاتفاقات البيئية العالمية (١)</a></li>
   <li><a href="slides/lecture_4.html">الاتفاقات البيئية العالمية(٢)</a></li>
-  <li><a href="slides/lecture_5.html">السياسات البيئية العالمية</a></li>
+  <li><a href="slides/lecture_5.html">(١)السياسات البيئية العالمية</a></li>
+  <li><a href="slides/lecture_6.html">(٢)السياسات البيئية العالمية</a></li>
   
 </ul>
