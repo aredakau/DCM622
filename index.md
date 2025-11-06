@@ -31,5 +31,7 @@
   <li><a href="slides/lecture_4.html">الاتفاقات البيئية العالمية (٢)</a></li>
   <li><a href="slides/lecture_5.html">السياسات البيئية العالمية (١)</a></li>
   <li><a href="slides/lecture_6.html">السياسات البيئية العالمية (٢)</a></li>
+  <li><a href="slides/lecture_7.html">السياسات البيئية السعودية (١)</a></li>
+  <li><a href="slides/lecture_8.html">السياسات البيئية السعودية (٢)</a></li>
   
 </ul>
