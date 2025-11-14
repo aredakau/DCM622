@@ -33,5 +33,8 @@
   <li><a href="slides/lecture_6.html">السياسات البيئية العالمية (٢)</a></li>
   <li><a href="slides/lecture_7.html">السياسات والأنظمة البيئية السعودية (١)</a></li>
   <li><a href="slides/lecture_8.html">السياسات والأنظمة البيئية السعودية (٢)</a></li>
+  <li><a href="slides/lecture_9.html">إعداد تقرير تقييم الأثر البيئي</a></li>
+  <li><a href="slides/lecture_10.html">السياسات والتشريعات المحلية في التعامل مع الكوارث البيئية</a></li>
+  
   
 </ul>
